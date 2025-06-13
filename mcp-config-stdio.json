@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "cellxgene-mcp": {
+      "command": "uv",
+      "args": ["run", "cellxgene-mcp"],
+      "env": {
+        "MCP_PORT": "3001",
+        "MCP_HOST": "0.0.0.0",
+        "MCP_TRANSPORT": "stdio"
+      }
+    }
+  }
+} 

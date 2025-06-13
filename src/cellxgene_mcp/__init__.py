@@ -1,0 +1,1 @@
+"""CELLxGENE Census MCP Server - A Model Context Protocol server for querying CELLxGENE Census data.""" 

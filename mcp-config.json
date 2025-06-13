@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "cellxgene-mcp": {
+      "url": "http://localhost:3001/mcp",
+      "env": {
+        "MCP_PORT": "3001",
+        "MCP_HOST": "0.0.0.0",
+        "MCP_TRANSPORT": "http"
+      }
+    }
+  }
+} 
